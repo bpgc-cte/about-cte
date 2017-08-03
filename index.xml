@@ -6,10 +6,20 @@
     <description>Recent content on About C.T.E</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 17:03:16 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 17:19:35 +0530</lastBuildDate>
     
 	<atom:link href="https://bpgc-cte.github.io/about-cte/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aim</title>
+      <link>https://bpgc-cte.github.io/about-cte/aim/</link>
+      <pubDate>Wed, 02 Aug 2017 17:19:35 +0530</pubDate>
+      
+      <guid>https://bpgc-cte.github.io/about-cte/aim/</guid>
+      <description>To serve as a platform for research activities on campus. We are looking to collaborate with companies in the form of undertaking their projects (simpler to start off with) along with a mentor, to further provide a real industry exposure to students early on and for the companies to eventually build a talent pool on our campus.
+What&amp;rsquo;s in for the students taking the courses? : The students who successfully complete the course,get an certificate on the institute&amp;rsquo;s letterhead signed by Prof.</description>
+    </item>
     
     <item>
       <title>Overview</title>
@@ -19,16 +29,6 @@
       <guid>https://bpgc-cte.github.io/about-cte/overview/</guid>
       <description>Center for Technical Education (CTE) is a department headed by Prof Bharat Deshpande, HOD, CS/IS, for the purpose of imparting knowledge on application oriented courses/topics.
  The idea is to build a sustainable system for passing knowledge from seniors to juniors. In the sense that juniors wanting to learn a new field may benefit more by learning the basics from their seniors quickly and building much more on top of that rather than the DIY(Do It Yourself) approach from scratch.</description>
-    </item>
-    
-    <item>
-      <title>Aim</title>
-      <link>https://bpgc-cte.github.io/about-cte/aim/</link>
-      <pubDate>Tue, 01 Aug 2017 17:19:35 +0530</pubDate>
-      
-      <guid>https://bpgc-cte.github.io/about-cte/aim/</guid>
-      <description>To serve as a platform for research activities on campus. We are looking to collaborate with companies in the form of undertaking their projects (simpler to start off with) along with a mentor, to further provide a real industry exposure to students early on and for the companies to eventually build a talent pool on our campus.
-What&amp;rsquo;s in for the students taking the courses? : The students who successfully complete the course,get an certificate on the institute&amp;rsquo;s letterhead signed by Prof.</description>
     </item>
     
     <item>
