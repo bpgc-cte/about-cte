@@ -6,10 +6,26 @@
     <description>Recent content on About C.T.E</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 17:19:35 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 11:03:54 +0530</lastBuildDate>
     
 	<atom:link href="https://bpgc-cte.github.io/about-cte/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Courses</title>
+      <link>https://bpgc-cte.github.io/about-cte/courses/</link>
+      <pubDate>Fri, 04 Aug 2017 11:03:54 +0530</pubDate>
+      
+      <guid>https://bpgc-cte.github.io/about-cte/courses/</guid>
+      <description>This semester we are conducting the following courses.  Intro to programming using python
+ Vehicle design and dynamics
+ Introduction to deep learning using tensorflow
+ Reinforce learning
+ Introduction to Maya
+ Intro to robotics
+ Intro to Object Oriented Programming
+  See you in the class !</description>
+    </item>
     
     <item>
       <title>Aim</title>
@@ -24,7 +40,7 @@ What&amp;rsquo;s in for the students taking the courses? : The students who succ
     <item>
       <title>Overview</title>
       <link>https://bpgc-cte.github.io/about-cte/overview/</link>
-      <pubDate>Wed, 02 Aug 2017 17:03:16 +0530</pubDate>
+      <pubDate>Tue, 01 Aug 2017 17:03:16 +0530</pubDate>
       
       <guid>https://bpgc-cte.github.io/about-cte/overview/</guid>
       <description>Center for Technical Education (CTE) is a department headed by Prof Bharat Deshpande, HOD, CS/IS, for the purpose of imparting knowledge on application oriented courses/topics.
