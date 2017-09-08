@@ -6,10 +6,19 @@
     <description>Recent content on About C.T.E</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Aug 2017 11:03:54 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 12:41:48 +0530</lastBuildDate>
     
 	<atom:link href="https://bpgc-cte.github.io/about-cte/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coordinators</title>
+      <link>https://bpgc-cte.github.io/about-cte/coordi15-16/</link>
+      <pubDate>Fri, 08 Sep 2017 12:41:48 +0530</pubDate>
+      
+      <guid>https://bpgc-cte.github.io/about-cte/coordi15-16/</guid>
+      <description> Year 2015-2017    Name ID     Kandukuri Sai Omkar 2014A3PS0153G   Varun Kumar Kadambala 2014A8PS0424G    Year 2017-Current    Name ID     Devvrit Khatri 2015A7PS0053G   Aviral Bajpai 2016B1A40755G    </description>
+    </item>
     
     <item>
       <title>Courses</title>
@@ -20,7 +29,7 @@
       <description>This semester we are conducting the following courses.  Intro to Programming using Python
  Vehicle Design and Dynamics
  Introduction to Deep Learning using Tensorflow
- Reinforcement Learning
+ Reinforcement Lutearning
  Introduction to Maya
  Intro to Robotics
  Intro to Object Oriented Programming

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bpgc-cte.github.io/about-cte/coordi15-16/</loc>
+    <lastmod>2017-09-08T12:41:48+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bpgc-cte.github.io/about-cte/courses/</loc>
     <lastmod>2017-08-06T11:03:54+05:30</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>https://bpgc-cte.github.io/about-cte/</loc>
-    <lastmod>2017-08-06T11:03:54+05:30</lastmod>
+    <lastmod>2017-09-08T12:41:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
