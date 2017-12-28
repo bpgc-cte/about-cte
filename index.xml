@@ -2,33 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About C.T.E</title>
-    <link>http://bit/</link>
+    <link>https://bpgc-cte.github.io/about-cte/</link>
     <description>Recent content on About C.T.E</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 17:03:16 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 12:41:48 +0530</lastBuildDate>
     
-	<atom:link href="http://bit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bpgc-cte.github.io/about-cte/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Overview</title>
-      <link>http://bit/overview/</link>
-      <pubDate>Wed, 02 Aug 2017 17:03:16 +0530</pubDate>
+      <title>Coordinators</title>
+      <link>https://bpgc-cte.github.io/about-cte/coordi15-16/</link>
+      <pubDate>Fri, 08 Sep 2017 12:41:48 +0530</pubDate>
       
-      <guid>http://bit/overview/</guid>
+      <guid>https://bpgc-cte.github.io/about-cte/coordi15-16/</guid>
+      <description> Year 2015-2017    Name ID     Kandukuri Sai Omkar 2014A3PS0153G   Varun Kumar Kadambala 2014A8PS0424G    Year 2017-Current    Name ID     Devvrit Khatri 2015A7PS0053G   Aviral Bajpai 2016B1A40755G    </description>
+    </item>
+    
+    <item>
+      <title>Courses for Sem-1 2017</title>
+      <link>https://bpgc-cte.github.io/about-cte/courses/</link>
+      <pubDate>Sun, 06 Aug 2017 11:03:54 +0530</pubDate>
+      
+      <guid>https://bpgc-cte.github.io/about-cte/courses/</guid>
+      <description>This semester we are conducting the following courses.  Intro to Programming using Python
+ Vehicle Design and Dynamics
+ Introduction to Deep Learning using Tensorflow
+ Reinforcement Learning
+ Introduction to Maya
+ Intro to Robotics
+ Intro to Object Oriented Programming
+ Intro to C Programming
+  See you in the class !</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://bpgc-cte.github.io/about-cte/overview/</link>
+      <pubDate>Sat, 05 Aug 2017 17:03:16 +0530</pubDate>
+      
+      <guid>https://bpgc-cte.github.io/about-cte/overview/</guid>
       <description>Center for Technical Education (CTE) is a department headed by Prof Bharat Deshpande, HOD, CS/IS, for the purpose of imparting knowledge on application oriented courses/topics.
  The idea is to build a sustainable system for passing knowledge from seniors to juniors. In the sense that juniors wanting to learn a new field may benefit more by learning the basics from their seniors quickly and building much more on top of that rather than the DIY(Do It Yourself) approach from scratch.</description>
     </item>
     
     <item>
       <title>Aim</title>
-      <link>http://bit/aim/</link>
-      <pubDate>Tue, 01 Aug 2017 17:19:35 +0530</pubDate>
+      <link>https://bpgc-cte.github.io/about-cte/aim/</link>
+      <pubDate>Thu, 03 Aug 2017 17:19:35 +0530</pubDate>
       
-      <guid>http://bit/aim/</guid>
+      <guid>https://bpgc-cte.github.io/about-cte/aim/</guid>
       <description>To serve as a platform for research activities on campus. We are looking to collaborate with companies in the form of undertaking their projects (simpler to start off with) along with a mentor, to further provide a real industry exposure to students early on and for the companies to eventually build a talent pool on our campus.
-What&amp;rsquo;s in for the students taking the courses? : The students who successfully complete the course,get an certificate on the institute&amp;rsquo;s letterhead signed by Prof.</description>
+What&amp;rsquo;s in for the students taking the courses? : The students who successfully complete the course,get a certificate signed by Prof.</description>
+    </item>
+    
+    <item>
+      <title>Sem1, 2015-2016</title>
+      <link>https://bpgc-cte.github.io/about-cte/15-16sem1/</link>
+      <pubDate>Tue, 01 Aug 2017 00:55:58 +0530</pubDate>
+      
+      <guid>https://bpgc-cte.github.io/about-cte/15-16sem1/</guid>
+      <description> Introduction to Robotics    Name ID     SARWATE SHUBHAM SANDEEP 2013A3PS316G   TANVI NITIN JADHAV 2013A3PS305G    Vehicle Design and Dynamics    Name ID     AKELLA SRI BHASWATH 2013A4PS394G   VEDANT SUNIL DESHPANDE 2013A4PS326G   TAARESH TANEJA 2013A4PS369G   PRANAB KUMAR PATHAK 2013A4PS338G   SIDDANTH RATHORE 2014A4PS187G    Finance and Investing    Name ID     NIKHIL VIJAY 2013B3PS606G   SHIVENDU SHIVAM 2014A1PS834G    CATIA    Name ID     PAI SALIL MANOJ 2013A4PS015G   MORE SANMIT MUKUND 2012B5A4717G    Intro to Java    Name ID     SWAPNESH KUMAR SAHOO 2013A8PS176G   UMANG TIWARY 2013A8PS494G   SAURABH NIGAM 2013A8PS855G    ANSYS    Name ID     VISHWANG BHASKAR 2012A1PS457G   SOHANI CHINTAN NARESHCHANDRA 2012A4PS315G    Intro to Python    Name ID     VIKAS MISHRA 2013B3A3497G   GAURAV NARULA 2013B3A7516G   MRIDUL SETH 2013B4A8662G    </description>
+    </item>
+    
+    <item>
+      <title>Sem2, 2016-2017 Instructors</title>
+      <link>https://bpgc-cte.github.io/about-cte/16-17sem2/</link>
+      <pubDate>Tue, 01 Aug 2017 00:46:01 +0530</pubDate>
+      
+      <guid>https://bpgc-cte.github.io/about-cte/16-17sem2/</guid>
+      <description> Comsol    Name ID     Zamin Ali 2014A1PS542G   Parth Bhandakkar 2014A1PS544G   Siddesh Inamdar 2013A1PS475G    Machine learning    Name ID     Piyush Pahwa 2014B3A8593G   Neel Jambhekar 2013B4A3425G   Rishabh Srivastava 2013B5A8P74G   Kushagr Arora 2014A7PS096G    Solidworks    Name ID     Abhimanyu 2015A4PS307G   Robin Singh Chib 2015A4PS396G    MBM    Name ID     Prabath Chalmeti 2014B3A1368G   Tanay Jha 2014B3A1649G    Cadence    Name ID     Harshavardhan Valluru 2014A3PS220G   Anand Milind Dugad 2014A3PS278G   Akshay Shivajirao Lavhale 2014A3PS762G    Mobile App Development    Name ID     Vikramaditya Kukreja 2015A3PS209G   YASH SHARAN 2015B2A8719G   SHREYAS N BHAT 2015A7PS033G    </description>
+    </item>
+    
+    <item>
+      <title>Sem 2, 2015-2016 Instructors</title>
+      <link>https://bpgc-cte.github.io/about-cte/15-16sem2/</link>
+      <pubDate>Tue, 01 Aug 2017 00:22:22 +0530</pubDate>
+      
+      <guid>https://bpgc-cte.github.io/about-cte/15-16sem2/</guid>
+      <description> Web Design    Name ID     APPORVA SAVANT 2012B5A8419G   SANAT SHETTY 2012A3PS216G   DIVYANSHU GUPTA 2014A7PS050G   SIDDHARTH PARMAR 2012A1PS520G    Machine Learning    Name ID     ALANKRIT GUPTA 2012A7PS073G   SAHIL TAPIAWALA 2012B2A3495G   HARSH GOYAL 2012A3PS166G    Solidworks    Name ID     ARAVIND 2014A4PS202G   MAYANK KUMAR 2014A4PS192G   SIDDHANT 2014A4PS187G    Game Development    Name ID     RISHAB JAIN 2014A7PS069G   AKSHAY JAGATAP 2014B5A7808G   KUSHAL PRAKASH 2014B4A7624G    Android App Development    Name ID     TEJAS JOGI 2013A7PS010G   MUDIT DANGI 2013A7PS036G    Cadence    Name ID     HARSH GOYAL 2012A3PS166G   ABHISHEK JOSHI 2012A3PS181G   HARDIK 2012A3PS142G    Comsol    Name ID     SHRISHTI LAHOTI 2013A1PS625G   AKHIL ARORA 2012A1PS437G    </description>
     </item>
     
   </channel>
