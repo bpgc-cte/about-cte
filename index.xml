@@ -6,10 +6,22 @@
     <description>Recent content on About C.T.E</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 12:41:48 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 13:29:28 +0530</lastBuildDate>
     
 	<atom:link href="https://bpgc-cte.github.io/about-cte/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Courses 2_17 18</title>
+      <link>https://bpgc-cte.github.io/about-cte/courses-2_17-18/</link>
+      <pubDate>Mon, 08 Jan 2018 13:29:28 +0530</pubDate>
+      
+      <guid>https://bpgc-cte.github.io/about-cte/courses-2_17-18/</guid>
+      <description> For semester 2, 2017-2018, following courses are being taught.  Intermediate Robotics Intro To Finance and Trading
+ Cadence
+ COMSOL Mobile App Development Web Development and Design
+ VDD Advanced  </description>
+    </item>
     
     <item>
       <title>Coordinators</title>
@@ -22,10 +34,10 @@
     
     <item>
       <title>Courses for Sem-1 2017</title>
-      <link>https://bpgc-cte.github.io/about-cte/courses/</link>
+      <link>https://bpgc-cte.github.io/about-cte/courses-1_17-18/</link>
       <pubDate>Sun, 06 Aug 2017 11:03:54 +0530</pubDate>
       
-      <guid>https://bpgc-cte.github.io/about-cte/courses/</guid>
+      <guid>https://bpgc-cte.github.io/about-cte/courses-1_17-18/</guid>
       <description>This semester we are conducting the following courses.  Intro to Programming using Python
  Vehicle Design and Dynamics
  Introduction to Deep Learning using Tensorflow
